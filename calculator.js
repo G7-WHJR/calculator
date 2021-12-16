@@ -12,7 +12,7 @@ function subtract() {
     var result = input1 - input2;
     document.getElementById("answer").innerHTML=result;
 }
-
+//SAA2
 function multiply() {
 
     var input1=Number(document.getElementById("n1").value);
@@ -21,6 +21,7 @@ function multiply() {
     document.getElementById("answer").innerHTML=result;
 }
 
+//SAA1
 function divide() {
 
     var input1=Number(document.getElementById("n1").value);
